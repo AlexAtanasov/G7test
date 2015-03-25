@@ -40,3 +40,5 @@ try (
       }
       // Step 5: Close the resources - Done automatically by try-with-resources
    }
+
+What am i even doing right now?
